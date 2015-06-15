@@ -1,0 +1,8 @@
+.idea
+*.xcworkspace/xcuserdata
+DerivedData
+Pods
+*.xcodeproj/project.xcworkspace/xcuserdata
+*.xcodeproj/xcuserdata
+screenshots
+_Builds
